@@ -1,0 +1,540 @@
+[INFO ] 2024-05-26 11:28:34.701 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 11:28:34.794 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 11:28:36.378 [main] stepdef -  url opened
+[INFO ] 2024-05-26 11:28:36.616 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 11:28:38.734 [main] stepdef -  click on login button
+[WARN ] 2024-05-26 11:28:39.779 [main] stepdef - Test pasword  :login feature :page title  matched.
+[INFO ] 2024-05-26 11:28:41.617 [main] stepdef - Login feature page titles not matched
+[INFO ] 2024-05-26 11:28:41.651 [main] stepdef - same page title : test passed
+[INFO ] 2024-05-26 11:28:41.810 [main] stepdef - Browser closed
+[INFO ] 2024-05-26 11:42:09.802 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 11:42:09.909 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 11:42:11.562 [main] stepdef -  url opened
+[INFO ] 2024-05-26 11:42:11.998 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 11:42:13.455 [main] stepdef -  click on login button
+[INFO ] 2024-05-26 11:42:14.599 [main] stepdef -  user can view Dashboard
+[INFO ] 2024-05-26 11:42:14.605 [main] stepdef - user can click on customer menu
+[INFO ] 2024-05-26 11:42:14.661 [main] stepdef - user can click on customer menu items
+[INFO ] 2024-05-26 11:42:15.323 [main] stepdef - user can click on Add new button
+[INFO ] 2024-05-26 11:42:16.851 [main] stepdef - user can view : Add new customer page
+[INFO ] 2024-05-26 11:42:16.851 [main] stepdef - user enter emailAdd
+[INFO ] 2024-05-26 11:42:16.919 [main] stepdef - user enter password
+[INFO ] 2024-05-26 11:42:16.999 [main] stepdef - user enter firstName
+[INFO ] 2024-05-26 11:42:17.057 [main] stepdef - user enter LastName
+[INFO ] 2024-05-26 11:42:17.133 [main] stepdef - user select gender
+[INFO ] 2024-05-26 11:42:17.188 [main] stepdef - user enter DOB
+[INFO ] 2024-05-26 11:42:17.253 [main] stepdef - user Enter CompanyName  
+[INFO ] 2024-05-26 11:42:17.337 [main] stepdef - user enter Admin Content
+[INFO ] 2024-05-26 11:42:17.437 [main] stepdef - user select enter Manger of Vendor
+[INFO ] 2024-05-26 11:42:17.583 [main] stepdef - User click on add new Customer  page
+[INFO ] 2024-05-26 11:42:18.952 [main] stepdef - "User can view Confirmation message : test pass
+[INFO ] 2024-05-26 11:42:19.075 [main] stepdef - Browser closed
+[INFO ] 2024-05-26 11:42:19.896 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 11:42:19.898 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 11:42:21.372 [main] stepdef -  url opened
+[INFO ] 2024-05-26 11:42:21.704 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 11:42:23.802 [main] stepdef -  click on login button
+[INFO ] 2024-05-26 11:42:25.052 [main] stepdef -  user can view Dashboard
+[INFO ] 2024-05-26 11:42:25.054 [main] stepdef - user can click on customer menu
+[INFO ] 2024-05-26 11:42:25.109 [main] stepdef - user can click on customer menu items
+[INFO ] 2024-05-26 11:42:26.461 [main] stepdef - user Enter Email
+[INFO ] 2024-05-26 11:42:26.521 [main] stepdef - User Click on search button
+[INFO ] 2024-05-26 11:42:26.521 [main] stepdef - User can see see search email in table
+[INFO ] 2024-05-26 11:42:27.052 [main] stepdef - Browser closed
+[INFO ] 2024-05-26 11:42:27.757 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 11:42:27.761 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 11:42:29.253 [main] stepdef -  url opened
+[INFO ] 2024-05-26 11:42:29.454 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 11:42:30.844 [main] stepdef -  click on login button
+[INFO ] 2024-05-26 11:42:31.270 [main] stepdef -  user can view Dashboard
+[INFO ] 2024-05-26 11:42:31.271 [main] stepdef - user can click on customer menu
+[INFO ] 2024-05-26 11:42:31.338 [main] stepdef - user can click on customer menu items
+[INFO ] 2024-05-26 11:42:32.228 [main] stepdef - User Enter Customer FirstName 
+[INFO ] 2024-05-26 11:42:32.749 [main] stepdef - User can Enter Customer LastName
+[INFO ] 2024-05-26 11:42:32.819 [main] stepdef - User Click on search button
+[INFO ] 2024-05-26 11:42:32.866 [main] stepdef - User found Name in Search table
+[INFO ] 2024-05-26 11:42:32.982 [main] stepdef - Browser closed
+[INFO ] 2024-05-26 11:42:33.818 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 11:42:33.820 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 11:42:35.313 [main] stepdef -  url opened
+[INFO ] 2024-05-26 11:42:35.614 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 11:42:37.642 [main] stepdef -  click on login button
+[WARN ] 2024-05-26 11:42:38.746 [main] stepdef - Test pasword  :login feature :page title  matched.
+[INFO ] 2024-05-26 11:42:40.892 [main] stepdef - Login feature page titles not matched
+[INFO ] 2024-05-26 11:42:40.905 [main] stepdef - same page title : test passed
+[INFO ] 2024-05-26 11:42:41.002 [main] stepdef - Browser closed
+[INFO ] 2024-05-26 11:42:41.799 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 11:42:41.813 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 11:42:44.327 [main] stepdef -  url opened
+[INFO ] 2024-05-26 11:42:44.603 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 11:42:46.798 [main] stepdef -  click on login button
+[WARN ] 2024-05-26 11:42:47.995 [main] stepdef - Test pasword  :login feature :page title  matched.
+[INFO ] 2024-05-26 11:42:49.852 [main] stepdef - Login feature page titles not matched
+[WARN ] 2024-05-26 11:42:49.866 [main] stepdef - Test pasword  :login feature :page title  matched.
+[INFO ] 2024-05-26 11:42:49.991 [main] stepdef - Browser closed
+[INFO ] 2024-05-26 11:42:50.761 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 11:42:50.767 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 11:42:54.018 [main] stepdef -  url opened
+[INFO ] 2024-05-26 11:42:54.294 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 11:42:55.497 [main] stepdef -  click on login button
+[INFO ] 2024-05-26 11:48:45.928 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 11:48:45.947 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 11:48:47.635 [main] stepdef -  url opened
+[INFO ] 2024-05-26 11:48:47.851 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 11:48:49.266 [main] stepdef -  click on login button
+[INFO ] 2024-05-26 11:48:50.373 [main] stepdef -  user can view Dashboard
+[INFO ] 2024-05-26 11:48:50.376 [main] stepdef - user can click on customer menu
+[INFO ] 2024-05-26 11:48:50.438 [main] stepdef - user can click on customer menu items
+[INFO ] 2024-05-26 11:48:51.079 [main] stepdef - user can click on Add new button
+[INFO ] 2024-05-26 11:48:51.763 [main] stepdef - user can view : Add new customer page
+[INFO ] 2024-05-26 11:48:51.764 [main] stepdef - user enter emailAdd
+[INFO ] 2024-05-26 11:48:51.828 [main] stepdef - user enter password
+[INFO ] 2024-05-26 11:48:52.296 [main] stepdef - user enter firstName
+[INFO ] 2024-05-26 11:48:52.347 [main] stepdef - user enter LastName
+[INFO ] 2024-05-26 11:48:52.417 [main] stepdef - user select gender
+[INFO ] 2024-05-26 11:48:52.479 [main] stepdef - user enter DOB
+[INFO ] 2024-05-26 11:48:52.531 [main] stepdef - user Enter CompanyName  
+[INFO ] 2024-05-26 11:48:52.612 [main] stepdef - user enter Admin Content
+[INFO ] 2024-05-26 11:48:52.691 [main] stepdef - user select enter Manger of Vendor
+[INFO ] 2024-05-26 11:48:52.840 [main] stepdef - User click on add new Customer  page
+[INFO ] 2024-05-26 11:48:54.180 [main] stepdef - "User can view Confirmation message : test pass
+[INFO ] 2024-05-26 11:48:54.300 [main] stepdef - Browser closed
+[INFO ] 2024-05-26 11:48:55.077 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 11:48:55.078 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 11:48:56.599 [main] stepdef -  url opened
+[INFO ] 2024-05-26 11:48:56.824 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 11:48:58.926 [main] stepdef -  click on login button
+[INFO ] 2024-05-26 11:49:00.062 [main] stepdef -  user can view Dashboard
+[INFO ] 2024-05-26 11:49:00.063 [main] stepdef - user can click on customer menu
+[INFO ] 2024-05-26 11:49:00.115 [main] stepdef - user can click on customer menu items
+[INFO ] 2024-05-26 11:49:01.293 [main] stepdef - user Enter Email
+[INFO ] 2024-05-26 11:49:01.371 [main] stepdef - User Click on search button
+[INFO ] 2024-05-26 11:49:01.372 [main] stepdef - User can see see search email in table
+[INFO ] 2024-05-26 11:49:01.890 [main] stepdef - Browser closed
+[INFO ] 2024-05-26 11:49:02.546 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 11:49:02.547 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 11:49:03.722 [main] stepdef -  url opened
+[INFO ] 2024-05-26 11:49:04.268 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 11:49:05.615 [main] stepdef -  click on login button
+[INFO ] 2024-05-26 11:49:06.801 [main] stepdef -  user can view Dashboard
+[INFO ] 2024-05-26 11:49:06.801 [main] stepdef - user can click on customer menu
+[INFO ] 2024-05-26 11:49:06.850 [main] stepdef - user can click on customer menu items
+[INFO ] 2024-05-26 11:49:08.045 [main] stepdef - User Enter Customer FirstName 
+[INFO ] 2024-05-26 11:49:08.115 [main] stepdef - User can Enter Customer LastName
+[INFO ] 2024-05-26 11:49:08.187 [main] stepdef - User Click on search button
+[INFO ] 2024-05-26 11:49:08.583 [main] stepdef - User found Name in Search table
+[INFO ] 2024-05-26 11:49:08.687 [main] stepdef - Browser closed
+[INFO ] 2024-05-26 11:49:09.396 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 11:49:09.397 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 11:49:10.131 [main] stepdef -  url opened
+[INFO ] 2024-05-26 11:49:10.323 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 11:49:12.404 [main] stepdef -  click on login button
+[WARN ] 2024-05-26 11:49:13.583 [main] stepdef - Test pasword  :login feature :page title  matched.
+[INFO ] 2024-05-26 11:49:15.586 [main] stepdef - Login feature page titles not matched
+[INFO ] 2024-05-26 11:49:15.608 [main] stepdef - same page title : test passed
+[INFO ] 2024-05-26 11:49:15.709 [main] stepdef - Browser closed
+[INFO ] 2024-05-26 11:49:16.425 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 11:49:16.427 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 11:49:18.070 [main] stepdef -  url opened
+[INFO ] 2024-05-26 11:49:18.272 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 11:49:19.552 [main] stepdef -  click on login button
+[WARN ] 2024-05-26 11:49:19.949 [main] stepdef - Test pasword  :login feature :page title  matched.
+[INFO ] 2024-05-26 11:49:21.640 [main] stepdef - Login feature page titles not matched
+[WARN ] 2024-05-26 11:49:21.653 [main] stepdef - Test pasword  :login feature :page title  matched.
+[INFO ] 2024-05-26 11:49:21.760 [main] stepdef - Browser closed
+[INFO ] 2024-05-26 11:49:22.476 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 11:49:22.477 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 11:49:23.223 [main] stepdef -  url opened
+[INFO ] 2024-05-26 11:49:23.529 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 11:49:24.680 [main] stepdef -  click on login button
+[INFO ] 2024-05-26 11:52:19.508 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 11:52:19.525 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 11:52:21.319 [main] stepdef -  url opened
+[INFO ] 2024-05-26 11:52:21.532 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 11:52:24.054 [main] stepdef -  click on login button
+[INFO ] 2024-05-26 11:52:25.470 [main] stepdef -  user can view Dashboard
+[INFO ] 2024-05-26 11:52:25.474 [main] stepdef - user can click on customer menu
+[INFO ] 2024-05-26 11:52:25.522 [main] stepdef - user can click on customer menu items
+[INFO ] 2024-05-26 11:52:26.384 [main] stepdef - user can click on Add new button
+[INFO ] 2024-05-26 11:52:27.138 [main] stepdef - user can view : Add new customer page
+[INFO ] 2024-05-26 11:52:27.139 [main] stepdef - user enter emailAdd
+[INFO ] 2024-05-26 11:52:27.203 [main] stepdef - user enter password
+[INFO ] 2024-05-26 11:52:27.745 [main] stepdef - user enter firstName
+[INFO ] 2024-05-26 11:52:27.797 [main] stepdef - user enter LastName
+[INFO ] 2024-05-26 11:52:27.865 [main] stepdef - user select gender
+[INFO ] 2024-05-26 11:52:27.919 [main] stepdef - user enter DOB
+[INFO ] 2024-05-26 11:52:27.973 [main] stepdef - user Enter CompanyName  
+[INFO ] 2024-05-26 11:52:28.055 [main] stepdef - user enter Admin Content
+[INFO ] 2024-05-26 11:52:28.172 [main] stepdef - user select enter Manger of Vendor
+[INFO ] 2024-05-26 11:52:28.297 [main] stepdef - User click on add new Customer  page
+[INFO ] 2024-05-26 11:52:29.743 [main] stepdef - "User can view Confirmation message : test pass
+[INFO ] 2024-05-26 11:52:29.862 [main] stepdef - Browser closed
+[INFO ] 2024-05-26 11:52:30.668 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 11:52:30.671 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 11:52:32.627 [main] stepdef -  url opened
+[INFO ] 2024-05-26 11:52:32.819 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 11:52:34.554 [main] stepdef -  click on login button
+[INFO ] 2024-05-26 11:52:35.705 [main] stepdef -  user can view Dashboard
+[INFO ] 2024-05-26 11:52:35.705 [main] stepdef - user can click on customer menu
+[INFO ] 2024-05-26 11:52:35.759 [main] stepdef - user can click on customer menu items
+[INFO ] 2024-05-26 11:52:36.706 [main] stepdef - user Enter Email
+[INFO ] 2024-05-26 11:52:37.273 [main] stepdef - User Click on search button
+[INFO ] 2024-05-26 11:52:37.273 [main] stepdef - User can see see search email in table
+[INFO ] 2024-05-26 11:52:37.426 [main] stepdef - Browser closed
+[INFO ] 2024-05-26 11:52:38.299 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 11:52:38.300 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 11:52:40.164 [main] stepdef -  url opened
+[INFO ] 2024-05-26 11:52:40.382 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 11:52:42.935 [main] stepdef -  click on login button
+[INFO ] 2024-05-26 11:52:44.037 [main] stepdef -  user can view Dashboard
+[INFO ] 2024-05-26 11:52:44.038 [main] stepdef - user can click on customer menu
+[INFO ] 2024-05-26 11:52:44.137 [main] stepdef - user can click on customer menu items
+[INFO ] 2024-05-26 11:52:45.128 [main] stepdef - User Enter Customer FirstName 
+[INFO ] 2024-05-26 11:52:45.195 [main] stepdef - User can Enter Customer LastName
+[INFO ] 2024-05-26 11:52:45.245 [main] stepdef - User Click on search button
+[INFO ] 2024-05-26 11:52:46.606 [main] stepdef - User found Name in Search table
+[INFO ] 2024-05-26 11:52:46.705 [main] stepdef - Browser closed
+[INFO ] 2024-05-26 11:52:47.520 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 11:52:47.522 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 11:52:50.956 [main] stepdef -  url opened
+[INFO ] 2024-05-26 11:52:51.155 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 11:52:53.989 [main] stepdef -  click on login button
+[WARN ] 2024-05-26 11:52:55.576 [main] stepdef - Test pasword  :login feature :page title  matched.
+[INFO ] 2024-05-26 11:52:58.216 [main] stepdef - Login feature page titles not matched
+[INFO ] 2024-05-26 11:52:58.240 [main] stepdef - same page title : test passed
+[INFO ] 2024-05-26 11:52:58.341 [main] stepdef - Browser closed
+[INFO ] 2024-05-26 11:52:59.165 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 11:52:59.167 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 11:53:00.282 [main] stepdef -  url opened
+[INFO ] 2024-05-26 11:53:00.491 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 11:53:02.241 [main] stepdef -  click on login button
+[WARN ] 2024-05-26 11:53:02.876 [main] stepdef - Test pasword  :login feature :page title  matched.
+[INFO ] 2024-05-26 11:53:05.452 [main] stepdef - Login feature page titles not matched
+[WARN ] 2024-05-26 11:53:05.466 [main] stepdef - Test pasword  :login feature :page title  matched.
+[INFO ] 2024-05-26 11:53:05.556 [main] stepdef - Browser closed
+[INFO ] 2024-05-26 11:53:06.364 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 11:53:06.365 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 11:53:08.018 [main] stepdef -  url opened
+[INFO ] 2024-05-26 11:53:08.243 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 11:53:08.952 [main] stepdef -  click on login button
+[INFO ] 2024-05-26 12:02:11.133 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 12:02:11.153 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 12:02:13.429 [main] stepdef -  url opened
+[INFO ] 2024-05-26 12:02:13.618 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 12:02:15.648 [main] stepdef -  click on login button
+[INFO ] 2024-05-26 12:02:16.777 [main] stepdef -  user can view Dashboard
+[INFO ] 2024-05-26 12:02:16.778 [main] stepdef - user can click on customer menu
+[INFO ] 2024-05-26 12:02:16.845 [main] stepdef - user can click on customer menu items
+[INFO ] 2024-05-26 12:02:17.723 [main] stepdef - user can click on Add new button
+[INFO ] 2024-05-26 12:02:19.286 [main] stepdef - user can view : Add new customer page
+[INFO ] 2024-05-26 12:02:19.286 [main] stepdef - user enter emailAdd
+[INFO ] 2024-05-26 12:02:19.358 [main] stepdef - user enter password
+[INFO ] 2024-05-26 12:02:19.432 [main] stepdef - user enter firstName
+[INFO ] 2024-05-26 12:02:19.484 [main] stepdef - user enter LastName
+[INFO ] 2024-05-26 12:02:19.550 [main] stepdef - user select gender
+[INFO ] 2024-05-26 12:02:19.607 [main] stepdef - user enter DOB
+[INFO ] 2024-05-26 12:02:19.667 [main] stepdef - user Enter CompanyName  
+[INFO ] 2024-05-26 12:02:19.737 [main] stepdef - user enter Admin Content
+[INFO ] 2024-05-26 12:02:19.835 [main] stepdef - user select enter Manger of Vendor
+[INFO ] 2024-05-26 12:02:19.957 [main] stepdef - User click on add new Customer  page
+[INFO ] 2024-05-26 12:02:22.035 [main] stepdef - "User can view Confirmation message : test pass
+[INFO ] 2024-05-26 12:02:22.144 [main] stepdef - Browser closed
+[INFO ] 2024-05-26 12:02:23.165 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 12:02:23.170 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 12:02:27.216 [main] stepdef -  url opened
+[INFO ] 2024-05-26 12:02:27.409 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 12:02:31.633 [main] stepdef -  click on login button
+[INFO ] 2024-05-26 12:02:31.644 [main] stepdef -  user can view Dashboard
+[INFO ] 2024-05-26 12:02:31.645 [main] stepdef - user can click on customer menu
+[INFO ] 2024-05-26 12:02:31.686 [main] stepdef - user can click on customer menu items
+[INFO ] 2024-05-26 12:02:42.779 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 12:02:42.780 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 12:02:44.580 [main] stepdef -  url opened
+[INFO ] 2024-05-26 12:02:44.808 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 12:02:48.636 [main] stepdef -  click on login button
+[INFO ] 2024-05-26 12:02:49.888 [main] stepdef -  user can view Dashboard
+[INFO ] 2024-05-26 12:02:49.888 [main] stepdef - user can click on customer menu
+[INFO ] 2024-05-26 12:02:49.950 [main] stepdef - user can click on customer menu items
+[INFO ] 2024-05-26 12:02:51.141 [main] stepdef - User Enter Customer FirstName 
+[INFO ] 2024-05-26 12:02:51.211 [main] stepdef - User can Enter Customer LastName
+[INFO ] 2024-05-26 12:02:51.261 [main] stepdef - User Click on search button
+[INFO ] 2024-05-26 12:02:51.948 [main] stepdef - User found Name in Search table
+[INFO ] 2024-05-26 12:02:52.054 [main] stepdef - Browser closed
+[INFO ] 2024-05-26 12:02:52.868 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 12:02:52.870 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 12:02:54.582 [main] stepdef -  url opened
+[INFO ] 2024-05-26 12:02:54.799 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 12:02:57.575 [main] stepdef -  click on login button
+[WARN ] 2024-05-26 12:02:58.781 [main] stepdef - Test pasword  :login feature :page title  matched.
+[INFO ] 2024-05-26 12:03:01.015 [main] stepdef - Login feature page titles not matched
+[INFO ] 2024-05-26 12:03:01.030 [main] stepdef - same page title : test passed
+[INFO ] 2024-05-26 12:03:01.127 [main] stepdef - Browser closed
+[INFO ] 2024-05-26 12:03:01.955 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 12:03:01.960 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 12:03:03.065 [main] stepdef -  url opened
+[INFO ] 2024-05-26 12:03:03.349 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 12:03:06.617 [main] stepdef -  click on login button
+[WARN ] 2024-05-26 12:03:08.123 [main] stepdef - Test pasword  :login feature :page title  matched.
+[INFO ] 2024-05-26 12:03:10.026 [main] stepdef - Login feature page titles not matched
+[WARN ] 2024-05-26 12:03:10.038 [main] stepdef - Test pasword  :login feature :page title  matched.
+[INFO ] 2024-05-26 12:03:10.129 [main] stepdef - Browser closed
+[INFO ] 2024-05-26 12:03:10.901 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 12:03:10.904 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 12:03:12.432 [main] stepdef -  url opened
+[INFO ] 2024-05-26 12:03:12.653 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 12:03:13.038 [main] stepdef -  click on login button
+[INFO ] 2024-05-26 12:04:36.754 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 12:04:36.770 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 12:04:37.734 [main] stepdef -  url opened
+[INFO ] 2024-05-26 12:04:38.009 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 12:04:39.444 [main] stepdef -  click on login button
+[INFO ] 2024-05-26 12:04:40.550 [main] stepdef -  user can view Dashboard
+[INFO ] 2024-05-26 12:04:40.553 [main] stepdef - user can click on customer menu
+[INFO ] 2024-05-26 12:04:40.657 [main] stepdef - user can click on customer menu items
+[INFO ] 2024-05-26 12:04:41.312 [main] stepdef - user can click on Add new button
+[INFO ] 2024-05-26 12:04:42.780 [main] stepdef - user can view : Add new customer page
+[INFO ] 2024-05-26 12:04:42.781 [main] stepdef - user enter emailAdd
+[INFO ] 2024-05-26 12:04:42.846 [main] stepdef - user enter password
+[INFO ] 2024-05-26 12:04:42.922 [main] stepdef - user enter firstName
+[INFO ] 2024-05-26 12:04:42.974 [main] stepdef - user enter LastName
+[INFO ] 2024-05-26 12:04:43.040 [main] stepdef - user select gender
+[INFO ] 2024-05-26 12:04:43.094 [main] stepdef - user enter DOB
+[INFO ] 2024-05-26 12:04:43.158 [main] stepdef - user Enter CompanyName  
+[INFO ] 2024-05-26 12:04:43.244 [main] stepdef - user enter Admin Content
+[INFO ] 2024-05-26 12:04:43.333 [main] stepdef - user select enter Manger of Vendor
+[INFO ] 2024-05-26 12:04:43.465 [main] stepdef - User click on add new Customer  page
+[INFO ] 2024-05-26 12:04:44.827 [main] stepdef - "User can view Confirmation message : test pass
+[INFO ] 2024-05-26 12:04:44.933 [main] stepdef - Browser closed
+[INFO ] 2024-05-26 12:04:45.865 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 12:04:45.867 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 12:04:47.270 [main] stepdef -  url opened
+[INFO ] 2024-05-26 12:04:47.491 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 12:04:48.732 [main] stepdef -  click on login button
+[INFO ] 2024-05-26 12:04:49.762 [main] stepdef -  user can view Dashboard
+[INFO ] 2024-05-26 12:04:49.763 [main] stepdef - user can click on customer menu
+[INFO ] 2024-05-26 12:04:49.863 [main] stepdef - user can click on customer menu items
+[INFO ] 2024-05-26 12:04:50.647 [main] stepdef - user Enter Email
+[INFO ] 2024-05-26 12:04:51.095 [main] stepdef - User Click on search button
+[INFO ] 2024-05-26 12:04:51.095 [main] stepdef - User can see see search email in table
+[INFO ] 2024-05-26 12:04:51.259 [main] stepdef - Browser closed
+[INFO ] 2024-05-26 12:04:51.977 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 12:04:51.978 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 12:04:52.774 [main] stepdef -  url opened
+[INFO ] 2024-05-26 12:04:53.050 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 12:04:54.407 [main] stepdef -  click on login button
+[INFO ] 2024-05-26 12:04:55.454 [main] stepdef -  user can view Dashboard
+[INFO ] 2024-05-26 12:04:55.455 [main] stepdef - user can click on customer menu
+[INFO ] 2024-05-26 12:04:55.556 [main] stepdef - user can click on customer menu items
+[INFO ] 2024-05-26 12:04:56.695 [main] stepdef - User Enter Customer FirstName 
+[INFO ] 2024-05-26 12:04:56.747 [main] stepdef - User can Enter Customer LastName
+[INFO ] 2024-05-26 12:04:56.802 [main] stepdef - User Click on search button
+[INFO ] 2024-05-26 12:04:57.194 [main] stepdef - User found Name in Search table
+[INFO ] 2024-05-26 12:04:57.296 [main] stepdef - Browser closed
+[INFO ] 2024-05-26 12:04:57.986 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 12:04:57.987 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 12:04:58.742 [main] stepdef -  url opened
+[INFO ] 2024-05-26 12:04:59.028 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 12:05:01.091 [main] stepdef -  click on login button
+[WARN ] 2024-05-26 12:05:02.182 [main] stepdef - Test pasword  :login feature :page title  matched.
+[INFO ] 2024-05-26 12:05:04.000 [main] stepdef - Login feature page titles not matched
+[INFO ] 2024-05-26 12:05:04.020 [main] stepdef - same page title : test passed
+[INFO ] 2024-05-26 12:05:04.125 [main] stepdef - Browser closed
+[INFO ] 2024-05-26 12:05:04.763 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 12:05:04.766 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 12:05:06.240 [main] stepdef -  url opened
+[INFO ] 2024-05-26 12:05:06.451 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 12:05:08.549 [main] stepdef -  click on login button
+[WARN ] 2024-05-26 12:05:09.681 [main] stepdef - Test pasword  :login feature :page title  matched.
+[INFO ] 2024-05-26 12:05:11.406 [main] stepdef - Login feature page titles not matched
+[WARN ] 2024-05-26 12:05:11.425 [main] stepdef - Test pasword  :login feature :page title  matched.
+[INFO ] 2024-05-26 12:05:11.523 [main] stepdef - Browser closed
+[INFO ] 2024-05-26 12:05:12.235 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 12:05:12.236 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 12:05:13.764 [main] stepdef -  url opened
+[INFO ] 2024-05-26 12:05:13.991 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 12:05:16.206 [main] stepdef -  click on login button
+[WARN ] 2024-05-26 12:05:17.326 [main] stepdef - Test pasword  :login feature :page title  matched.
+[INFO ] 2024-05-26 12:05:19.058 [main] stepdef - Login feature page titles not matched
+[WARN ] 2024-05-26 12:05:19.075 [main] stepdef - Test pasword  :login feature :page title  matched.
+[INFO ] 2024-05-26 12:05:19.310 [main] stepdef - Browser closed
+[INFO ] 2024-05-26 12:14:55.161 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 12:14:55.186 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 12:14:56.705 [main] stepdef -  url opened
+[INFO ] 2024-05-26 12:14:56.994 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 12:14:58.481 [main] stepdef -  click on login button
+[WARN ] 2024-05-26 12:14:59.582 [main] stepdef - Test pasword  :login feature :page title  matched.
+[INFO ] 2024-05-26 12:15:01.316 [main] stepdef - Login feature page titles not matched
+[INFO ] 2024-05-26 12:15:01.331 [main] stepdef - same page title : test passed
+[INFO ] 2024-05-26 12:15:01.457 [main] stepdef - Browser closed
+[INFO ] 2024-05-26 12:15:02.327 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 12:15:02.330 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 12:15:03.808 [main] stepdef -  url opened
+[INFO ] 2024-05-26 12:15:04.051 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 12:15:06.425 [main] stepdef -  click on login button
+[WARN ] 2024-05-26 12:15:07.486 [main] stepdef - Test pasword  :login feature :page title  matched.
+[INFO ] 2024-05-26 12:15:09.288 [main] stepdef - Login feature page titles not matched
+[WARN ] 2024-05-26 12:15:09.310 [main] stepdef - Test pasword  :login feature :page title  matched.
+[INFO ] 2024-05-26 12:15:09.414 [main] stepdef - Browser closed
+[INFO ] 2024-05-26 12:15:10.294 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 12:15:10.295 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 12:15:11.802 [main] stepdef -  url opened
+[INFO ] 2024-05-26 12:15:12.022 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 12:15:14.249 [main] stepdef -  click on login button
+[WARN ] 2024-05-26 12:15:15.325 [main] stepdef - Test pasword  :login feature :page title  matched.
+[INFO ] 2024-05-26 12:15:17.179 [main] stepdef - Login feature page titles not matched
+[WARN ] 2024-05-26 12:15:17.188 [main] stepdef - Test pasword  :login feature :page title  matched.
+[INFO ] 2024-05-26 12:15:17.299 [main] stepdef - Browser closed
+[INFO ] 2024-05-26 13:01:54.777 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 13:01:54.804 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 13:01:56.475 [main] stepdef -  url opened
+[INFO ] 2024-05-26 13:01:56.785 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 13:01:58.203 [main] stepdef -  click on login button
+[INFO ] 2024-05-26 13:01:59.301 [main] stepdef -  user can view Dashboard
+[INFO ] 2024-05-26 13:01:59.303 [main] stepdef - user can click on customer menu
+[INFO ] 2024-05-26 13:01:59.361 [main] stepdef - user can click on customer menu items
+[INFO ] 2024-05-26 13:02:00.026 [main] stepdef - user can click on Add new button
+[INFO ] 2024-05-26 13:02:01.102 [main] stepdef - user can view : Add new customer page
+[INFO ] 2024-05-26 13:02:01.103 [main] stepdef - user enter emailAdd
+[INFO ] 2024-05-26 13:02:01.650 [main] stepdef - user enter password
+[INFO ] 2024-05-26 13:02:01.722 [main] stepdef - user enter firstName
+[INFO ] 2024-05-26 13:02:01.781 [main] stepdef - user enter LastName
+[INFO ] 2024-05-26 13:02:01.850 [main] stepdef - user select gender
+[INFO ] 2024-05-26 13:02:01.905 [main] stepdef - user enter DOB
+[INFO ] 2024-05-26 13:02:01.998 [main] stepdef - user Enter CompanyName  
+[INFO ] 2024-05-26 13:02:02.109 [main] stepdef - user enter Admin Content
+[INFO ] 2024-05-26 13:02:02.215 [main] stepdef - user select enter Manger of Vendor
+[INFO ] 2024-05-26 13:02:02.342 [main] stepdef - User click on add new Customer  page
+[INFO ] 2024-05-26 13:02:03.705 [main] stepdef - "User can view Confirmation message : test pass
+[INFO ] 2024-05-26 13:02:03.851 [main] stepdef - Browser closed
+[INFO ] 2024-05-26 13:02:04.667 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 13:02:04.669 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 13:02:06.092 [main] stepdef -  url opened
+[INFO ] 2024-05-26 13:02:06.347 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 13:02:08.599 [main] stepdef -  click on login button
+[WARN ] 2024-05-26 13:02:09.650 [main] stepdef - Test pasword  :login feature :page title  matched.
+[INFO ] 2024-05-26 13:02:11.508 [main] stepdef - Login feature page titles not matched
+[INFO ] 2024-05-26 13:02:11.528 [main] stepdef - same page title : test passed
+[INFO ] 2024-05-26 13:02:11.616 [main] stepdef - Browser closed
+[INFO ] 2024-05-26 13:04:11.653 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 13:04:11.694 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 13:04:13.101 [main] stepdef -  url opened
+[INFO ] 2024-05-26 13:04:13.327 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 13:04:14.676 [main] stepdef -  click on login button
+[INFO ] 2024-05-26 13:04:15.724 [main] stepdef -  user can view Dashboard
+[INFO ] 2024-05-26 13:04:15.726 [main] stepdef - user can click on customer menu
+[INFO ] 2024-05-26 13:04:15.769 [main] stepdef - user can click on customer menu items
+[INFO ] 2024-05-26 13:04:16.666 [main] stepdef - user can click on Add new button
+[INFO ] 2024-05-26 13:04:18.234 [main] stepdef - user can view : Add new customer page
+[INFO ] 2024-05-26 13:04:18.237 [main] stepdef - user enter emailAdd
+[INFO ] 2024-05-26 13:04:18.312 [main] stepdef - user enter password
+[INFO ] 2024-05-26 13:04:18.405 [main] stepdef - user enter firstName
+[INFO ] 2024-05-26 13:04:18.471 [main] stepdef - user enter LastName
+[INFO ] 2024-05-26 13:04:18.555 [main] stepdef - user select gender
+[INFO ] 2024-05-26 13:04:18.618 [main] stepdef - user enter DOB
+[INFO ] 2024-05-26 13:04:18.693 [main] stepdef - user Enter CompanyName  
+[INFO ] 2024-05-26 13:04:18.792 [main] stepdef - user enter Admin Content
+[INFO ] 2024-05-26 13:04:18.913 [main] stepdef - user select enter Manger of Vendor
+[INFO ] 2024-05-26 13:04:19.071 [main] stepdef - User click on add new Customer  page
+[INFO ] 2024-05-26 13:04:20.659 [main] stepdef - "User can view Confirmation message : test pass
+[INFO ] 2024-05-26 13:04:20.814 [main] stepdef - Browser closed
+[INFO ] 2024-05-26 13:04:21.580 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 13:04:21.582 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 13:04:22.995 [main] stepdef -  url opened
+[INFO ] 2024-05-26 13:04:23.222 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 13:04:25.341 [main] stepdef -  click on login button
+[WARN ] 2024-05-26 13:04:26.399 [main] stepdef - Test pasword  :login feature :page title  matched.
+[INFO ] 2024-05-26 13:04:28.232 [main] stepdef - Login feature page titles not matched
+[INFO ] 2024-05-26 13:04:28.255 [main] stepdef - same page title : test passed
+[INFO ] 2024-05-26 13:04:28.358 [main] stepdef - Browser closed
+[INFO ] 2024-05-26 13:05:31.835 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 13:05:31.857 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 13:05:33.419 [main] stepdef -  url opened
+[INFO ] 2024-05-26 13:05:33.643 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 13:05:34.997 [main] stepdef -  click on login button
+[WARN ] 2024-05-26 13:05:36.056 [main] stepdef - Test pasword  :login feature :page title  matched.
+[INFO ] 2024-05-26 13:05:37.983 [main] stepdef - Login feature page titles not matched
+[INFO ] 2024-05-26 13:05:38.002 [main] stepdef - same page title : test passed
+[INFO ] 2024-05-26 13:05:38.094 [main] stepdef - Browser closed
+[INFO ] 2024-05-26 13:05:38.729 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 13:05:38.730 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 13:05:40.250 [main] stepdef -  url opened
+[INFO ] 2024-05-26 13:05:40.450 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 13:05:42.599 [main] stepdef -  click on login button
+[WARN ] 2024-05-26 13:05:43.720 [main] stepdef - Test pasword  :login feature :page title  matched.
+[INFO ] 2024-05-26 13:05:46.173 [main] stepdef - Login feature page titles not matched
+[WARN ] 2024-05-26 13:05:46.188 [main] stepdef - Test pasword  :login feature :page title  matched.
+[INFO ] 2024-05-26 13:05:46.291 [main] stepdef - Browser closed
+[INFO ] 2024-05-26 13:05:46.976 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 13:05:46.982 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 13:05:48.414 [main] stepdef -  url opened
+[INFO ] 2024-05-26 13:05:48.649 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 13:05:49.833 [main] stepdef -  click on login button
+[INFO ] 2024-05-26 13:06:48.470 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 13:06:48.497 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 13:06:50.358 [main] stepdef -  url opened
+[INFO ] 2024-05-26 13:06:50.571 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 13:06:52.673 [main] stepdef -  click on login button
+[WARN ] 2024-05-26 13:06:53.714 [main] stepdef - Test pasword  :login feature :page title  matched.
+[INFO ] 2024-05-26 13:06:55.495 [main] stepdef - Login feature page titles not matched
+[INFO ] 2024-05-26 13:06:55.510 [main] stepdef - same page title : test passed
+[INFO ] 2024-05-26 13:06:55.603 [main] stepdef - Browser closed
+[INFO ] 2024-05-26 13:06:56.311 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 13:06:56.315 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 13:06:57.470 [main] stepdef -  url opened
+[INFO ] 2024-05-26 13:06:57.678 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 13:06:59.722 [main] stepdef -  click on login button
+[WARN ] 2024-05-26 13:07:00.786 [main] stepdef - Test pasword  :login feature :page title  matched.
+[INFO ] 2024-05-26 13:07:02.525 [main] stepdef - Login feature page titles not matched
+[WARN ] 2024-05-26 13:07:02.537 [main] stepdef - Test pasword  :login feature :page title  matched.
+[INFO ] 2024-05-26 13:07:02.635 [main] stepdef - Browser closed
+[INFO ] 2024-05-26 13:07:03.307 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 13:07:03.309 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 13:07:04.745 [main] stepdef -  url opened
+[INFO ] 2024-05-26 13:07:04.931 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 13:07:06.070 [main] stepdef -  click on login button
+[INFO ] 2024-05-26 13:11:50.137 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 13:11:50.173 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 13:11:51.921 [main] stepdef -  url opened
+[INFO ] 2024-05-26 13:11:52.249 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 13:11:53.663 [main] stepdef -  click on login button
+[WARN ] 2024-05-26 13:11:54.873 [main] stepdef - Test pasword  :login feature :page title  matched.
+[INFO ] 2024-05-26 13:11:56.778 [main] stepdef - Login feature page titles not matched
+[INFO ] 2024-05-26 13:11:56.791 [main] stepdef - same page title : test passed
+[INFO ] 2024-05-26 13:11:56.895 [main] stepdef - Browser closed
+[INFO ] 2024-05-26 13:11:57.648 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 13:11:57.650 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 13:11:59.181 [main] stepdef -  url opened
+[INFO ] 2024-05-26 13:11:59.619 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 13:12:01.815 [main] stepdef -  click on login button
+[WARN ] 2024-05-26 13:12:02.897 [main] stepdef - Test pasword  :login feature :page title  matched.
+[INFO ] 2024-05-26 13:12:04.934 [main] stepdef - Login feature page titles not matched
+[WARN ] 2024-05-26 13:12:04.950 [main] stepdef - Test pasword  :login feature :page title  matched.
+[INFO ] 2024-05-26 13:12:05.057 [main] stepdef - Browser closed
+[INFO ] 2024-05-26 13:12:05.745 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 13:12:05.747 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 13:12:07.552 [main] stepdef -  url opened
+[INFO ] 2024-05-26 13:12:07.872 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 13:12:09.152 [main] stepdef -  click on login button
+[INFO ] 2024-05-26 13:38:25.406 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 13:38:25.493 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 13:38:26.505 [main] stepdef -  url opened
+[INFO ] 2024-05-26 13:38:26.786 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 13:38:28.244 [main] stepdef -  click on login button
+[WARN ] 2024-05-26 13:38:29.347 [main] stepdef - Test pasword  :login feature :page title  matched.
+[INFO ] 2024-05-26 13:38:31.133 [main] stepdef - Login feature page titles not matched
+[INFO ] 2024-05-26 13:38:31.148 [main] stepdef - same page title : test passed
+[INFO ] 2024-05-26 13:38:31.254 [main] stepdef - Browser closed
+[INFO ] 2024-05-26 13:38:32.120 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 13:38:32.129 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 13:38:32.874 [main] stepdef -  url opened
+[INFO ] 2024-05-26 13:38:33.320 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 13:38:35.447 [main] stepdef -  click on login button
+[WARN ] 2024-05-26 13:38:36.505 [main] stepdef - Test pasword  :login feature :page title  matched.
+[INFO ] 2024-05-26 13:38:38.648 [main] stepdef - Login feature page titles not matched
+[WARN ] 2024-05-26 13:38:38.675 [main] stepdef - Test pasword  :login feature :page title  matched.
+[INFO ] 2024-05-26 13:38:38.795 [main] stepdef - Browser closed
+[INFO ] 2024-05-26 13:38:39.740 [main] stepdef - setup1 executed..
+[INFO ] 2024-05-26 13:38:39.745 [main] stepdef -  browser launch chrome
+[INFO ] 2024-05-26 13:38:40.644 [main] stepdef -  url opened
+[INFO ] 2024-05-26 13:38:40.946 [main] stepdef -  email and password entered
+[INFO ] 2024-05-26 13:38:42.124 [main] stepdef -  click on login button
